@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "cypress-ntlm-auth": "^4.0.2",
+    "cypress-xpath": "^2.0.0"
+  }
+}
